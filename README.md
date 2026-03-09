@@ -63,6 +63,5 @@ Scikit-learn
 # Objectif
 
 Devenir Data Scientist / AI Engineer et développer des systèmes intelligents capables d'exploiter les données pour résoudre des problèmes complexes.
-
 - ⚡ Fun fact: ...
 -->
